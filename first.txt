@@ -6,12 +6,3 @@ this will be the moving comit of main
 
 
 first commit
-adding while resolving
-
-second commit
-
-third commit 
-
-this is true third commit
-
-forth commit
