@@ -5,4 +5,13 @@ wowowowowowo
 this will be the moving comit of main
 
 
-helloooo 1
+first commit
+adding while resolving
+
+second commit
+
+third commit 
+
+this is true third commit
+
+forth commit
